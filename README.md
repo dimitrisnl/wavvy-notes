@@ -4,6 +4,7 @@
 
 ## Screenshots
 
+![preview](screens/demo2.png)
 ![preview](screens/abc.png)
 ![preview](screens/dfg.png)
 
