@@ -1,5 +1,7 @@
 # Wavvy Notes
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/dimitrisnl/wavvy-notes.svg)](https://greenkeeper.io/)
+
 > Unfortunately, due to GDPR I don't have time to make the appropriate adjustments. So I'm taking this side project down, and getting it to Github.
 
 ## Screenshots
